@@ -1,24 +1,3 @@
-.metadata
 venv
 .idea
-wsDuRevamp
-wsDuVivrDemo
-wsDuSelim
-wsDuRevamp.cmd
-wsDuVivrDemo.cmd
-wsDuSelim.cmd
-DU CVP v2.2
-DU CVP v2.3.3
-DU CVP v2.3.4 Production
-Smart Properties
-wsDu.zip
-wsDuYasar.cmd
-wsDuYasar
-wsDuHazem - SIVR.cmd
-wsDuHazem_SIVR
-Tools/VIVRLanguages/venv
-Tools/VIVRLanguages/.idea
-Tools/DynamicMenus/venv
-Tools/DynamicMenus/.idea
-Tools/IVR/venv
-Tools/IVR/.idea
+__pycache__
