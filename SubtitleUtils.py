@@ -187,3 +187,11 @@ def encode_subtitles(path):
                 except Exception as e:
                     # Handle potential errors during file reading or writing
                     print(f"Error re-encoding file {subtitle_full_path}: {e}")
+
+def main():
+    path = input("Enter the movie directory: ")
+    encode_subtitles(path)
+
+
+if __name__ == "__main__":
+    main()
